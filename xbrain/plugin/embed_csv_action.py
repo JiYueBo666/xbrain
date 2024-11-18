@@ -1,9 +1,9 @@
 from pydantic import BaseModel, Field
 from typing import ClassVar
 from xbrain.core import xbrain_tool
-from xbrain.utils.file_utils import extract_text, split_text
+#from xbrain.utils.file_utils import extract_text, split_text
 from xbrain.utils.translations import _
-from xbrain.utils.openai_utils import generate_embedding
+#from xbrain.utils.openai_utils import generate_embedding
 import os
 import logging
 import pandas as pd

@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 
 from xbrain.core import xbrain_tool
 from xbrain.utils.input_util import get_input
-from xbrain.utils.openai_utils import text_to_image
+#from xbrain.utils.openai_utils import text_to_image
 
 
 class XBrainTextToImageModel(BaseModel):

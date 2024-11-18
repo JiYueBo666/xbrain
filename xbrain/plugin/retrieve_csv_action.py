@@ -1,5 +1,5 @@
 import numpy as np
-from xbrain.utils.openai_utils import generate_embedding
+#from xbrain.utils.openai_utils import generate_embedding
 import pandas as pd
 from pydantic import BaseModel, Field
 from typing import ClassVar, Optional, List, Dict
